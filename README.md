@@ -1,4 +1,5 @@
 # twitter_bot
+## About
 The python script for my twitter bot which I created to share information and daily news on the Covid-19 pandemic. The script for the bot is deployed on AWS Lambda and can be view on twitter here: https://twitter.com/justinuvacs
 
 ## Accomplishments
